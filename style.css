@@ -1,0 +1,16 @@
+.canvas {
+    border-style:ridge;
+    border-radius: 20px;
+    border-width: 15px;
+    height: 500px;
+    width: 1000px;
+}
+body {
+    background-image: linear-gradient(to bottom right,white , cyan );
+    background-repeat: no-repeat;
+    scroll-behavior: smooth;
+}
+#bt{
+    border-radius: 100px;
+    font-size: 2em;
+}
